@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="wench-double.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="694"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1.3169416"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <title
+     id="title6">wench-double</title>
+  <path
+     class="a"
+     d="M23.146,2.854,21,5H19V3L21.146.854a4,4,0,0,0-5.292,5.292L6.146,15.854A4,4,0,0,0,.854,21.146L3,19H5v2L2.854,23.146a4,4,0,0,0,5.292-5.292l9.708-9.708a4,4,0,0,0,5.292-5.292Z"
+     id="path8"
+     style="stroke:#00b5ec;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M12,10,8.146,6.146A4,4,0,0,0,2.854.854L5,3V5H3L.854,2.854A4,4,0,0,0,6.146,8.146L10,12"
+     id="path10"
+     style="stroke:#00b5ec;stroke-opacity:1" />
+  <path
+     class="a"
+     d="M12,14l3.854,3.854a4,4,0,0,0,5.292,5.292L19,21V19h2l2.146,2.146a4,4,0,0,0-5.292-5.292L14,12"
+     id="path12"
+     style="stroke:#00b5ec;stroke-opacity:1" />
+</svg>
